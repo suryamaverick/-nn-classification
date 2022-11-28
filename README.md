@@ -34,11 +34,6 @@ Predict the new sample data.
 ## PROGRAM
 
 ```python
-#Developed by: M Lokssh Krishnaa
-#Registration no.: 212220230030
-```
-
-```python
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.models import Sequential
